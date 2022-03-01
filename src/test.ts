@@ -3,3 +3,7 @@ function teste(): number {
 }
 
 teste()/sdsddfsdfsdfdsfdfgdfg
+
+sddsdsdsd
+
+
